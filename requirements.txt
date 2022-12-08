@@ -1,7 +1,7 @@
 altgraph==0.16.1
 appium-python-client==0.22
 bottle==0.12.18
-certifi==2019.11.28
+certifi==2022.12.7
 chardet==3.0.4
 Django==1.11.4
 django-bootstrap3==12.0.3
